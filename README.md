@@ -1,2 +1,1 @@
-# henry-prepcourse
-repositorio de plueba de modulo 2 henry
+creando un repositorio desde github y llevandolo a la pc
